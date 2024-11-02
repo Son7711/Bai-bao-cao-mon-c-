@@ -1,0 +1,79 @@
+D:\c#\Quanlyview\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.exe
+D:\c#\Quanlyview\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.deps.json
+D:\c#\Quanlyview\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.runtimeconfig.json
+D:\c#\Quanlyview\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.dll
+D:\c#\Quanlyview\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.pdb
+D:\c#\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Form1.resources
+D:\c#\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Quanly.resources
+D:\c#\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.csproj.GenerateResource.cache
+D:\c#\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.AssemblyInfoInputs.cache
+D:\c#\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.AssemblyInfo.cs
+D:\c#\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.csproj.CoreCompileInputs.cache
+D:\c#\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.dll
+D:\c#\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\refint\Quanlyview.dll
+D:\c#\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.pdb
+D:\c#\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.genruntimeconfig.cache
+D:\c#\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\ref\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.exe
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.deps.json
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.runtimeconfig.json
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.pdb
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Form1.resources
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Quanly.resources
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.csproj.GenerateResource.cache
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.AssemblyInfoInputs.cache
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.AssemblyInfo.cs
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.csproj.CoreCompileInputs.cache
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\refint\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.pdb
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.genruntimeconfig.cache
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\ref\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Form2.resources
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.exe
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.deps.json
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.runtimeconfig.json
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.pdb
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Form1.resources
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Form2.resources
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Quanly.resources
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.csproj.GenerateResource.cache
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.AssemblyInfoInputs.cache
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.AssemblyInfo.cs
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.csproj.CoreCompileInputs.cache
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\refint\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.pdb
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.genruntimeconfig.cache
+D:\Học tập-hk1-năm 3\C#\bú\Quanlyview bij hu r\Quanlyview\obj\Debug\net8.0-windows\ref\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.exe
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.deps.json
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.runtimeconfig.json
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\bin\Debug\net8.0-windows\Quanlyview.pdb
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Form1.resources
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Quanly.resources
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.csproj.GenerateResource.cache
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.AssemblyInfoInputs.cache
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.AssemblyInfo.cs
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.csproj.CoreCompileInputs.cache
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\refint\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.pdb
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.genruntimeconfig.cache
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\ref\Quanlyview.dll
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.csproj.AssemblyReference.cache
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.csproj.Up2Date
+D:\Học tập-hk1-năm 3\C#\bú\Bài báo cáo C#\Quanlyview\obj\Debug\net8.0-windows\Quanlyview.Properties.Resources.resources
